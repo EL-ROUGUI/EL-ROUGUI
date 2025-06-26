@@ -21,7 +21,7 @@
 | 📌 Projet | Description | Technologies |
 |----------|-------------|--------------|
 | [SimpleVirusDetector-RL](https://github.com/EL-ROUGUI/SimpleVirusDetector-RL) | Détection de virus avec reinforcement learning | Python, simulation, ML |
-| [Patch Management Linux] | Déploiement Ansible + Vagrant + Grafana | Linux, automation |
+| [Patch Management Automatis Linux](https://github.com/EL-ROUGUI/-Patch-Management-Automatis-Linux-) | Déploiement Ansible + Vagrant + Grafana | Linux, automation |
 | [NSL-KDD Intrusion Detection](https://github.com/EL-ROUGUI/nsl-kdd-intrusion-detection) | Classification attaque/normal | Scikit-learn, pandas |
 | Chatbot Rasa | Assistant NLU simple | Python, Rasa |
 
