@@ -2,7 +2,7 @@
 
 🎓 Étudiant en Master Cybersécurité Intelligente (FS Rabat)  
 🔍 Spécialisé en sécurité offensive, détection d'intrusions et Machine Learning  
-📌 En recherche active d’un stage en cybersécurité (été 2025)
+📌 En recherche active d’un stage en cybersécurité 
 
 ---
 
@@ -40,5 +40,5 @@
 ---
 
 ## 📫 Me contacter
-- 💼 LinkedIn : [ton lien ici]
-- 📧 Email : email@example.com
+- 💼 LinkedIn : linkedin.com/in/elmehdi-rougui
+- 📧 Email : rouguielmehdi101@gmail.com
