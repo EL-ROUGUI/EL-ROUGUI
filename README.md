@@ -40,5 +40,5 @@
 ---
 
 ## 📫 Me contacter
-- 💼 LinkedIn : linkedin.com/in/elmehdi-rougui
+- 💼 LinkedIn : [linkedin.com/in/elmehdi-rougui]
 - 📧 Email : rouguielmehdi101@gmail.com
