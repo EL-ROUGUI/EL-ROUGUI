@@ -1,53 +1,31 @@
-# 👋 Bienvenue sur mon GitHub !
+# 👋 Hi, I'm El Mehdi Rougui
 
-## 🚀 À propos de moi
+**Junior Cybersecurity Analyst** — SOC · SIEM (ELK) · NIDS · Python · Machine Learning
 
-Je m'appelle **Rougui El Mehdi** et je suis étudiant en Master Cybersécurité Intelligente et Technologies émergentes à la FS Rabat (2024-2026). Passionné par la sécurité offensive, le DevSecOps et l'application de l'IA dans la cybersécurité, j'aime automatiser, explorer et apprendre en continu.
+🎓 Master's in Intelligent Cybersecurity — Mohammed V University, Rabat (2026)
+💼 Internships: **IT6 Consulting** (Rabat) · **Evolvity Partners** (Casablanca)
+📍 Mohammedia, Morocco — open to full-time roles (CDI) across Morocco
+📫 rouguielmehdi101@gmail.com · [LinkedIn](https://linkedin.com/in/elmehdi-rougui)
 
-- 📍 Mohammedia, Maroc
-- 📧 Email : rouguielmehdi101@gmail.com
-- 💼 LinkedIn : https://linkedin.com/in/elmehdi-rougui
-- 🌐 GitHub : https://github.com/EL-ROUGUI
-- 📱 Téléphone : +212 624-585-823
+---
 
-## 💡 Compétences
+## 🛠️ Tech stack
 
-- 🔐 Cybersécurité : Nmap, OWASP Top 10, Active Directory attacks (Kerberoasting, Pass-the-Hash), TryHackMe labs
-- 🤖 Machine Learning : Détection d'intrusions NSL-KDD, Reinforcement Learning
-- ⚙️ DevOps : Docker, Git, Ansible, Vagrant, Grafana
-- 🧰 Languages/Outils : Python, Java, R, Bash, HTML/CSS, JavaScript, Jupyter, SpiderFoot
-- 🖥️ Automatisation : web app Flask pour la génération de rapports de veille
+`Python` `ELK Stack` `Zeek` `Suricata` `Docker` `Linux` `FastAPI` `Machine Learning` `Git`
 
-## 🏅 Certifications
+---
 
-- ISC Certified in Cybersecurity (CC)
-- Data Analytics & Visualization — Forage (2024)
-- Cybersecurity Virtual Experience — Forage (2025)
+## 📌 Featured projects
 
-## 🧑‍💻 Projets marquants
+| Project | What it does |
+|---|---|
+| [Intelligent NIDS (PFE)](https://github.com/EL-ROUGUI/le-projet-fin-d-etude-) | Zeek → FastAPI → Elasticsearch detection pipeline — 3.47M flows analyzed, F1-score 96.9% |
+| [Cybersecurity Audit Portfolio](https://github.com/EL-ROUGUI/cybersecurity-audit-portfolio) | Hands-on vulnerability assessment & security testing |
+| [NSL-KDD Intrusion Detection](https://github.com/EL-ROUGUI/nsl-kdd-intrusion-detection) | ML models for intrusion detection on the NSL-KDD dataset |
+| [Adaptive Virus Scanner (RL)](https://github.com/EL-ROUGUI/SimpleVirusDetector-RL) | Java virus scanner powered by reinforcement learning |
 
-| 📌 Projet | Description | Technologies |
-|--|--|--|
-| SimpleVirusDetector-RL | Détection de virus par reinforcement learning | Python, simulation, ML |
-| NSL-KDD Intrusion Detection | Classification attaque/normal | Scikit-learn, pandas |
-| Patch Management Automatisé Linux | Déploiement Ansible, Vagrant, Grafana | Linux, automation, monitoring |
-| Chatbot Rasa | Assistant NLU simple | Python, Rasa |
+---
 
-## 🧪 Mon parcours TryHackMe
+## 📊 Stats
 
-- Parcours suivi : Jr Penetration Tester
-- Modules réalisés :
-  - Network Exploitation Basics
-  - Active Directory Introduction
-  - Web Exploitation
-  - Windows Privilege Escalation (en cours)
-- Certificat en cours
-
-## 🎯 Objectif
-
-Actuellement en recherche active d'un stage de fin d'études (PFE, 6 mois dès février 2026) pour mettre en pratique mes compétences, relever de nouveaux défis et apporter une réelle valeur à une équipe innovante.
-
-## 📫 Me contacter
-
-Tu souhaites collaborer sur des sujets cybersécurité, IA ou DevOps ?
-N'hésite pas à me contacter !
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EL-ROUGUI&show_icons=true&theme=dark)
